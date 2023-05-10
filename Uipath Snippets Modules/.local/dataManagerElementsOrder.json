@@ -1,0 +1,58 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EmailUsingGmail.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Attachments_Email&Sequence_58",
+        "CC_Email&Sequence_58",
+        "Recipients_Email&Sequence_58",
+        "Subject_Email&Sequence_58",
+        "Body_Email&Sequence_58"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "FindFileinGoogleDrive.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Drive_FolderName&Sequence_206",
+        "folderName&Sequence_206",
+        "Drive_FileName&Sequence_206",
+        "searchFileResults&Sequence_206"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "folderName",
+        "Drive_NotApprovedFolderName",
+        "searchFileResults",
+        "Drive_ApprovedMasterFileName"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "GetEmail (Gmail).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "EmailReadCount&Sequence_23",
+        "list_Emails&Sequence_23"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "EmailSubjectFilter",
+        "AttachmnetDownloadFolder"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
